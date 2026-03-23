@@ -1,0 +1,8 @@
+setup.py
+skill_matcher/__init__.py
+skill_matcher/matcher.py
+skill_matcher.egg-info/PKG-INFO
+skill_matcher.egg-info/SOURCES.txt
+skill_matcher.egg-info/dependency_links.txt
+skill_matcher.egg-info/requires.txt
+skill_matcher.egg-info/top_level.txt
