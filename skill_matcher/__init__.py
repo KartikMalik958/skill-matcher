@@ -1,1 +1,1 @@
-from .matcher import normalize_user_skills, compute_match, extract_skills
+from .matcher import normalize_user_skills, extract_skills
